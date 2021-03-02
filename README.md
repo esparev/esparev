@@ -1,4 +1,4 @@
-# Hello | Hola | Bonjour
+# Hello | Hola
 
 I'm José María Esparza Arévalo! I'm studying and working to be a web developer
 
