@@ -11,7 +11,7 @@ I'm José María Esparza Arévalo! I'm studying and working to be a web develope
 
 #
 
-### My GitHub Stats
+<h3 align="center">My GitHub Stats</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esparev&langs_count=10&theme=dark&layout=compact" width="500" alt="Esparev's Top Langs" /></p>
 
