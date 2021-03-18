@@ -13,6 +13,6 @@ I'm José María Esparza Arévalo! I'm studying and working to be a web develope
 
 ### My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esparev&layout=compact&theme=dark)](https://github.com/esparev/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esparev&langs_count=10&theme=dark&layout=compact" width="500" alt="Esparev's Top Langs" /></p>
 
-![Esparev's GitHub stats](https://github-readme-stats.vercel.app/api?username=esparev&show_icons=true&theme=dark)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=esparev&show_icons=true&theme=dark" width="500" alt="Esparev's Profile Stats" /></p>
