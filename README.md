@@ -1,11 +1,11 @@
 # Hello | Hola
 
-I'm José María Esparza Arévalo! I'm studying and working to be a web developer
+I'm José María Esparza Arévalo! I'm studying and working to be a Web Developer
 
 # 
 
-- 🔭 I’m currently working on different projects for my portfolio but mainly on [Platzi Video](https://esparev.github.io/platzi-video/)
-- 🤓 I’m currently learning web development & Java at [Platzi](https://www.platzi.com/web/)
+- 🔭 I’m currently working on different projects for my portfolio but mainly on [Platzi Video](https://github.com/esparev/platzi-video)
+- 🤓 I’m currently learning Web Development with ReactJS at [Platzi](https://www.platzi.com/web/)
 - 📫 How to reach me: esparev@hotmail.com | jm.esparev@gmail.com
 - 😄 Pronouns: Esparza
 
