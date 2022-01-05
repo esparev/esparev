@@ -4,10 +4,9 @@ I'm José María Esparza Arévalo! I'm studying and working to be a Web Develope
 
 # 
 
-- 🔭 I’m currently working on different projects for my portfolio but mainly on [PlatziVideo](https://github.com/esparev/platzi-video)
+- 🔭 I’m currently working on different projects for my portfolio like [BEISMICH](https://github.com/esparev/beismich) and [PlatziVideo](https://github.com/esparev/platzi-video)
 - 🤓 I’m currently learning Web Development with MERN and PERNN stack at [Platzi](https://www.platzi.com/web/)
 - 📫 How to reach me: esparev@hotmail.com | jm.esparev@gmail.com
-- 😄 Pronouns: Esparza
 
 #
 
