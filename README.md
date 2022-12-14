@@ -15,5 +15,5 @@
 
 ## 📈 GitHub Stats
 
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esparev&langs_count=10&theme=dark&layout=compact" height="200" alt="Esparev's Top Langs" /></a>
-<a><img src="https://github-readme-stats.vercel.app/api?username=esparev&show_icons=true&theme=dark" height="200" alt="Esparev's Profile Stats" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esparev&langs_count=10&theme=dark&layout=compact&hide=java,c%2B%2B,shell,starlark,cmake,ruby,objective-c,objective-c%2B%2B" height="200" alt="Esparev's Top Langs" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=esparev&show_icons=true&theme=dark&include_all_commits=true" height="200" alt="Esparev's Profile Stats" /></a>
