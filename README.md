@@ -19,6 +19,9 @@
   <a href="https://instagram.com/esparev.dev">
     <img src="https://img.shields.io/badge/instagram-CF0078?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://twitter.com/esparev">
+    <img src="https://img.shields.io/badge/twitter-1B91E0?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </div>
   
 ## 🛡 Technologies & Tools
