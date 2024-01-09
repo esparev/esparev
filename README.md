@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/esparev">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/esparev.dev">
+  <a href="https://instagram.com/esparev.js">
     <img src="https://img.shields.io/badge/instagram-CF0078?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/esparev">
